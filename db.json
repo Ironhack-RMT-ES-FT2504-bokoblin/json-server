@@ -1,0 +1,52 @@
+{
+  "companies": [
+    {
+      "id": "1234",
+      "name": "Nintendo",
+      "location": "Japan",
+      "foundedIn": 1889
+    },
+    {
+      "id": "2345",
+      "name": "Sony",
+      "location": "Japan",
+      "foundedIn": 1946
+    },
+    {
+      "id": "3456",
+      "name": "Microsoft",
+      "location": "US",
+      "foundedIn": 1975
+    }
+  ],
+  "games": [
+    {
+      "title": "Zelda Tears of the Kingdom",
+      "category": "adventure",
+      "rating": 10,
+      "companyId": "1234",
+      "id": "abcd"
+    },
+    {
+      "id": "defg",
+      "title": "Animal Crossing: New Horizons",
+      "category": "sim",
+      "rating": 9,
+      "companyId": "1234"
+    },
+    {
+      "id": "hijk",
+      "title": "God of War",
+      "category": "action",
+      "rating": null,
+      "companyId": "2345"
+    },
+    {
+      "title": "Sea of Thieves",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "3456",
+      "id": "WVFs75u"
+    }
+  ]
+}
