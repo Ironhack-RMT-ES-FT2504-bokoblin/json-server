@@ -1,52 +1,31 @@
 {
-  "companies": [
+  "projects": [
     {
-      "id": "1234",
-      "name": "Nintendo",
-      "location": "Japan",
-      "foundedIn": 1889
+      "id": "1",
+      "title": "Module 2 Project",
+      "description": "Module 2 project - Integrate a React app with backend."
     },
     {
-      "id": "2345",
-      "name": "Sony",
-      "location": "Japan",
-      "foundedIn": 1946
-    },
-    {
-      "id": "3456",
-      "name": "Microsoft",
-      "location": "US",
-      "foundedIn": 1975
+      "id": "2",
+      "title": "Module 3 Project",
+      "description": "Create a full-stack application using MERN stack."
     }
   ],
-  "games": [
+  "tasks": [
     {
-      "title": "Zelda Tears of the Kingdom",
-      "category": "adventure",
-      "rating": 10,
-      "companyId": "1234",
-      "id": "abcd"
+      "id": "1",
+      "projectId": "1",
+      "description": "Use Vite to create a basic React app"
     },
     {
-      "id": "defg",
-      "title": "Animal Crossing: New Horizons",
-      "category": "sim",
-      "rating": 9,
-      "companyId": "1234"
+      "id": "2",
+      "projectId": "1",
+      "description": "Install React Router and setup routes"
     },
     {
-      "id": "hijk",
-      "title": "God of War",
-      "category": "action",
-      "rating": null,
-      "companyId": "2345"
-    },
-    {
-      "title": "Sea of Thieves",
-      "category": "adventure",
-      "rating": null,
-      "companyId": "3456",
-      "id": "WVFs75u"
+      "id": "3",
+      "projectId": "2",
+      "description": "Create a form with 5 input fields"
     }
   ]
 }
